@@ -7,4 +7,4 @@ Kelas A
 
 **Screenshot Program**
 
-![SS program](https://i.ibb.co/xDDLRpj/ss-program-shift-cipher.jpg)
+![SS program](SSProgram.jpg)
