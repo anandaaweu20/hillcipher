@@ -1,6 +1,6 @@
 /*
 Nama		: Anki Prawira Hidayat	Ananda Sapta Awedhana
-NPM			: 140810190063			140810190063
+NPM			: 140810190055			140810190063
 Kelas		: A
 Deskripsi	: Program enkripsi, dekripsi, dan mencari key Kriptografi Hill Cipher
 */
